@@ -11,7 +11,7 @@ You can click on a link to see my Design</p>
 <link>https://www.figma.com/file/KgVp6juREj4WstnzS5jVMg/College-App?type=design&node-id=0%3A1&t=d53nxH5Ma0jc8Ix0-1<link><br>
 
 >><b>(Prototype)</b><link>https://www.figma.com/file/DXEMayFi83fwE80xchj7ky/College-app?type=design&node-id=0%3A1&t=nIwyJbKwtTjTGwlJ-1 </link>
-<h2>4.UI (User Interface)& Prototype design of a Food Delivery App</h2>
+<h2>5.UI (User Interface)& Prototype design of a Food Delivery App</h2>
 <link>https://www.figma.com/file/AJNThZ1GDNYwnUD1fqtG2h/Food-App?type=design&node-id=0%3A1&t=58rBVKXwcBblIhxX-1<link><br>
 
 >><b>(Prototype)</b>https://www.figma.com/proto/AJNThZ1GDNYwnUD1fqtG2h/Food-App?page-id=0%3A1&type=design&node-id=2-2&viewport=54%2C113%2C0.16&scaling=scale-down&starting-point-node-id=2%3A2</link>
